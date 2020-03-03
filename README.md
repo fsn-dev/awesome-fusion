@@ -40,11 +40,13 @@ Pull requests are welcome!
 
 - [FSNPOOL](https://fsnpool.com/)
 - [GOFSN](https://gofsn.com/)
+- [PoolTogether](https://pooltogether.io/)
 
 ## Explorers
 
 - [Fusion block explorer](https://blocks.fusionnetwork.io/) - Official Fusion block explorer.
 - [FSN 365](http://www.fsn365.com/) - Another Fusion block explorer.
+- [FUSIONMINING](https://fusionmining.org/) - Comprehensive network stats.
 
 ## Programming
 
@@ -57,7 +59,7 @@ Pull requests are welcome!
 
 ## Tutorials
 
-*to be populated*
+- [Fusion Guides](https://fusionmining.org/guides) - A collection of guides from [FUSIONMINING](https://fusionmining.org/).
 
 ## Videos
 
