@@ -38,8 +38,8 @@ Pull requests are welcome!
 
 ### Staking pools
 
-- [FSNPOOL](https://fsnpool.com/).
-- [GOFSN](https://gofsn.com/).
+- [FSNPOOL](https://fsnpool.com/)
+- [GOFSN](https://gofsn.com/)
 
 ## Explorers
 
