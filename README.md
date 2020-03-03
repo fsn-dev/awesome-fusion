@@ -15,6 +15,7 @@ Pull requests are welcome!
 - [Staking](#staking)
 - [Wallet](#wallet)
 - [Explorers](#explorers)
+- [Network monitoring](#network-monitoring)
 - [Programming](#programming)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -36,6 +37,7 @@ Pull requests are welcome!
 ### Staking calculators
 
 - [Fusion staking calculator](https://fusionstaking.com/) - A staking calculator.
+- [Another Fusion staking calculator](http://calculator.fusionexplorer.org/) - Another staking calculator.
 
 ### Staking pools
 
@@ -51,7 +53,11 @@ Pull requests are welcome!
 
 - [Fusion block explorer](https://blocks.fusionnetwork.io/) - Official Fusion block explorer.
 - [FSN 365](http://www.fsn365.com/) - Another Fusion block explorer.
+
+## Network monitoring
+
 - [FUSIONMINING](https://fusionmining.org/) - Comprehensive network stats.
+- [Node monitor](http://stats.fusionnetwork.io/) - Fusion node monitor.
 
 ## Programming
 
@@ -100,6 +106,7 @@ Public network gateways.
 - [Fusion website](https://www.fusion.org/)
 - [Fusion on Medium](https://medium.com/@fusionprotocol/)
 - [Fusion Twitter](https://twitter.com/FUSIONProtocol/)
+- [Fusion on YouTube](https://www.youtube.com/channel/UCVZ_1c6x7jRlOs4g2hMZZMQ)
 
 ## Contribute
 
