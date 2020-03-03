@@ -13,6 +13,7 @@ Pull requests are welcome!
 
 - [Documentation](#documentation)
 - [Staking](#staking)
+- [Wallet](#wallet)
 - [Explorers](#explorers)
 - [Programming](#programming)
 - [Tools](#tools)
@@ -41,6 +42,10 @@ Pull requests are welcome!
 - [FSNPOOL](https://fsnpool.com/)
 - [GOFSN](https://gofsn.com/)
 - [PoolTogether](https://pooltogether.io/)
+
+## Wallet
+
+- [MyFusionWallet](https://www.myfusionwallet.com/) - Official Fusion web wallet.
 
 ## Explorers
 
