@@ -20,7 +20,7 @@ Pull requests are welcome!
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Dapps](#dapps)
-- [Networks](#networks)
+- [Network gateways](#networks)
 - [Community](#community)
 - [Official](#official)
 
@@ -74,9 +74,16 @@ Pull requests are welcome!
 
 *to be populated*
 
-## Networks
+## Network gateways
 
-*to be populated: mainnet, testnet*
+Public network gateways.
+
+- Mainnet gateway:
+  - WebSocket: `wss://mainnetpublicgateway1.fusionnetwork.io:10001`
+  - Chain ID: `32659`
+- Testnet gateway:
+  - WebSocket: `wss://testnetpublicgateway1.fusionnetwork.io:10001`
+  - Chain ID: `46688`
 
 ## Community
 
