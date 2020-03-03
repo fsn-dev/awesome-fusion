@@ -43,6 +43,7 @@ Pull requests are welcome!
 
 - [FSNPOOL](https://fsnpool.com/)
 - [GOFSN](https://gofsn.com/)
+- [NodeNetworks Fusion pool](https://www.nodenetworks.org/fsnpool/)
 - [PoolTogether](https://pooltogether.io/)
 
 ## Wallet
@@ -74,7 +75,7 @@ Pull requests are welcome!
 
 ## Videos
 
-*to be populated*
+- [NodeNetworks pool on YouTube](https://www.youtube.com/channel/UCws1m7Z3LtOBJsQckNsjguA) - Fusion-related videos from the [NodeNetworks pool](https://www.nodenetworks.org/fsnpool/).
 
 ## Dapps
 
