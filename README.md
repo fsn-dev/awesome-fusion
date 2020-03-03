@@ -20,7 +20,7 @@ Pull requests are welcome!
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Dapps](#dapps)
-- [Network gateways](#networks)
+- [Network gateways](#network-gateways)
 - [Community](#community)
 - [Official](#official)
 
