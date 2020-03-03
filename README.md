@@ -51,6 +51,7 @@ Pull requests are welcome!
 *to be populated*
 
 - [Fusion testnet faucet](https://fsn.dev/faucet/) - A faucet for testnet FSN.
+- [web3fsnpy](https://github.com/FUSIONFoundation/web3fsnpy) - Fusion's python Application Program Interface to the blockchain
 
 ## Tools
 
