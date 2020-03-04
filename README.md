@@ -109,6 +109,7 @@ Public network gateways.
 ## Misc
 
 - [FSN FEED](https://fsnfeed.com/) - A news feed for all things Fusion.
+- [WeDeFi](https://www.wedefi.com/) - A private company building on Fusion.
 
 ## Official
 
