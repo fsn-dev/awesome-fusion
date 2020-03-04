@@ -70,8 +70,8 @@ Pull requests are welcome!
 ## Tools
 
 - [Truffle](https://github.com/FUSIONFoundation/efsn/wiki/Deploy-smart-contract-using-truffle) - A how-to to compile and deploy a smart contract with [Truffle](https://www.trufflesuite.com/).
-- [Remix IDE](https://github.com/FUSIONFoundation/efsn/wiki/Deploy-smart-contract-using-remix) - A how-to to deploy a smart contract with [Remix IDE](https://remix.ethereum.org/).
-- [solc](https://github.com/FUSIONFoundation/efsn/wiki/Deploy-smart-contract-using-solc) - A how-to to deploy a smart contract with [solc](https://solidity.readthedocs.io/en/v0.5.3/installing-solidity.html).
+- [Remix IDE](https://github.com/FUSIONFoundation/efsn/wiki/Deploy-smart-contract-using-remix) - A how-to to compile and deploy a smart contract with [Remix IDE](https://remix.ethereum.org/).
+- [solc](https://github.com/FUSIONFoundation/efsn/wiki/Deploy-smart-contract-using-solc) - A how-to to compile and deploy a smart contract with [solc](https://solidity.readthedocs.io/en/v0.5.3/installing-solidity.html).
 
 ## Tutorials
 
