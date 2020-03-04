@@ -13,7 +13,7 @@ Pull requests are welcome!
 
 - [Documentation](#documentation)
 - [Staking](#staking)
-- [Wallet](#wallet)
+- [Wallets](#wallets)
 - [Explorers](#explorers)
 - [Network monitoring](#network-monitoring)
 - [Programming](#programming)
@@ -47,7 +47,7 @@ Pull requests are welcome!
 - [NodeNetworks Fusion pool](https://www.nodenetworks.org/fsnpool/)
 - [PoolTogether](https://pooltogether.io/)
 
-## Wallet
+## Wallets
 
 - [MyFusionWallet](https://www.myfusionwallet.com/) - Official Fusion web wallet.
 - [Whallet](https://github.com/fsn-dev/whallet/releases) - A Fusion wallet for Android.
