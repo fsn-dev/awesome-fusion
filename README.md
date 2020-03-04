@@ -50,6 +50,7 @@ Pull requests are welcome!
 ## Wallet
 
 - [MyFusionWallet](https://www.myfusionwallet.com/) - Official Fusion web wallet.
+- [Whallet](https://github.com/fsn-dev/whallet/releases) - A Fusion wallet for Android.
 
 ## Explorers
 
