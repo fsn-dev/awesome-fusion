@@ -23,6 +23,7 @@ Pull requests are welcome!
 - [Dapps](#dapps)
 - [Network gateways](#network-gateways)
 - [Community](#community)
+- [Misc](#misc)
 - [Official](#official)
 
 ## Documentation
@@ -101,6 +102,10 @@ Public network gateways.
 - [Fusion trading community in Telegram](https://t.me/FusionTrading) - A trading Telegram community.
 - [Fusion Russian community in Telegram](https://t.me/fusion_ru) - A Russian Telegram community.
 - [Fusion on Reddit](https://www.reddit.com/r/FusionFoundation) - A Fusion Reddit community.
+
+## Misc
+
+- [FSN FEED](https://fsnfeed.com/) - A news feed for all things Fusion.
 
 ## Official
 
