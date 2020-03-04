@@ -68,7 +68,7 @@ Pull requests are welcome!
 
 ## Tools
 
-*to be populated*
+- [Truffle](https://github.com/FUSIONFoundation/efsn/wiki/Deploy-smart-contract-using-truffle) - A how-to to deploy a smart contract with Truffle.
 
 ## Tutorials
 
