@@ -60,8 +60,14 @@ Pull requests are welcome!
 
 ## Network monitoring
 
-- [FUSIONMINING](https://fusionmining.org/) - Comprehensive network stats.
-- [Node monitor](http://stats.fusionnetwork.io/) - Fusion node monitor.
+### Mainnet
+
+- [FUSIONMINING](https://fusionmining.org/) - Comprehensive main network stats.
+- [Mainnet node monitor](http://stats.fusionnetwork.io/) - Fusion mainnet node monitor.
+
+### Testnet
+
+- [Testnet node monitor](http://devnodestats.fusionnetwork.io/) - Fusion testnet node monitor.
 
 ## Programming
 
