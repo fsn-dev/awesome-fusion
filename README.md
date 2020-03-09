@@ -83,7 +83,8 @@ Pull requests are welcome!
 
 ## Tutorials
 
-- [Fusion Guides](https://fusionmining.org/guides) - A collection of guides from [FUSIONMINING](https://fusionmining.org/).
+- [Official Fusion guides](https://fusionnetworks.zendesk.com/hc/en-us) - A collection of official guides.
+- [Community Fusion guides](https://fusionmining.org/guides) - A collection of guides from [FUSIONMINING](https://fusionmining.org/).
 
 ## Videos
 
