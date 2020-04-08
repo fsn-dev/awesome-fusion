@@ -30,6 +30,7 @@ Pull requests are welcome!
 
 - [Whitepaper](https://uploads-ssl.webflow.com/5cbf7269aa4c8ec895500d90/5cd19865da79bd05684babfc_Fusion%20White%20Paper.pdf) - An outline of the Fusion vision and protocol architecture.
 - [DCRM yellow paper](https://uploads-ssl.webflow.com/5cbf7269aa4c8ec895500d90/5cd19874373c9579f4d9b6ee_DCRM%20Yellow%20Paper.pdf) - A technical paper on Distributed Private Key Control (DCRM), one of the key Fusion features.
+- [Fusion RPC API](https://github.com/FUSIONFoundation/efsn/wiki/FSN-RPC-API) - Fusion RPC API reference.
 - [Fusion API](https://fusionapi.readthedocs.io/en/latest/) - Fusion API reference.
 - [web3-fusion-extend](https://web3-fusion-extend.readthedocs.io/) - A collection of Fusion JavaScript API libraries.
 - [web3fsnpy](https://web3fsnpy.readthedocs.io/en/latest/) - A Python library for interacting with Fusion.
