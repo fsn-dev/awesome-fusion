@@ -58,6 +58,7 @@ Pull requests are welcome!
 
 - [Fusion block explorer](https://blocks.fusionnetwork.io/) - Official Fusion block explorer.
 - [FSN 365](http://www.fsn365.com/) - Another Fusion block explorer.
+- [FSNEXplorer](https://fsnex.com/) - Another Fusion block explorer.
 - [TxnsScript](https://github.com/katesroad/TxnsScript) - An open source script to track transactions, addresses, and balances.
 
 ## Network monitoring
