@@ -95,7 +95,7 @@ Pull requests are welcome!
 
 ## Dapps
 
-*to be populated*
+- [WeDeFi on Android](https://play.google.com/store/apps/details?id=com.hdwalletinit&hl=en) - A decentralized finance dapp from [WeDeFi](https://www.wedefi.com/).
 
 ## Network gateways
 
