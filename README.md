@@ -122,6 +122,7 @@ Public network gateways.
 
 - [FSN FEED](https://fsnfeed.com/) - A news feed for all things Fusion.
 - [WeDeFi](https://www.wedefi.com/) - A private company building on Fusion.
+- [WeDeFi SafeBet Calculator](http://safebetcalculator.com/) - A community-built calculator to check and plan your chances of winning at [WeDeFi's](https://www.wedefi.com/) SafeBet.
 
 ## Official
 
