@@ -52,7 +52,7 @@ Pull requests are welcome!
 ## Wallets
 
 - [MyFusionWallet](https://www.myfusionwallet.com/) - Official Fusion web wallet.
-- [Whallet](https://whallet.net/) - An online Fusion wallet.
+- [Whallet](https://whallet.net/) - An online Fusion wallet that supports Ledger and Trezor.
 
 ## Explorers
 
