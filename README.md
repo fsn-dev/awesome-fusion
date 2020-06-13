@@ -133,4 +133,4 @@ Public network gateways.
 
 ## Contribute
 
-Contributions welcome! Read [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! Read [contribution guidelines](CONTRIBUTING.md).
