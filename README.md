@@ -95,7 +95,8 @@ Pull requests are welcome!
 
 ## Dapps
 
-- [WeDeFi on Android](https://play.google.com/store/apps/details?id=com.hdwalletinit&hl=en) - A decentralized finance dapp from [WeDeFi](https://www.wedefi.com/).
+- [WeDeFi](https://www.wedefi.com/) - A decentralized finance dapp for iOS and Android.
+- [Anyswap](https://anyswap.exchange/) - A decentralized exchange where you can trade not just ERC-20 tokens, but coins and tokens from any other blockchain protocols, including Ethereum and Bitcoin.
 
 ## Network gateways
 
