@@ -102,11 +102,22 @@ Pull requests are welcome!
 
 Public network gateways.
 
+### RPC
+
 - Mainnet gateway:
-  - WebSocket: `wss://mainnetpublicgateway1.fusionnetwork.io:10001`
+  - Endpoint: `https://fsn.dev/api`
   - Chain ID: `32659`
 - Testnet gateway:
-  - WebSocket: `wss://testnetpublicgateway1.fusionnetwork.io:10001`
+  - Endpoint: `https://testnet.fsn.dev/api`
+  - Chain ID: `46688`
+
+### WebSocket
+
+- Mainnet gateway:
+  - Endpoint: `wss://mainnetpublicgateway1.fusionnetwork.io:10001`
+  - Chain ID: `32659`
+- Testnet gateway:
+  - Endpoin: `wss://testnetpublicgateway1.fusionnetwork.io:10001`
   - Chain ID: `46688`
 
 ## Community
