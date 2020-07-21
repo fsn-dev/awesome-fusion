@@ -38,11 +38,11 @@ Pull requests are welcome!
 
 ## Staking
 
-### Staking calculators
+### Calculators
 
 - [Fusion staking calculator](https://fusionstaking.com/) - A staking calculator.
 
-### Staking pools
+### Pools
 
 - [FSNPOOL](https://fsnpool.com/)
 - [GOFSN](https://gofsn.com/)
