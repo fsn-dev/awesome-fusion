@@ -41,7 +41,6 @@ Pull requests are welcome!
 ### Staking calculators
 
 - [Fusion staking calculator](https://fusionstaking.com/) - A staking calculator.
-- [Another Fusion staking calculator](http://calculator.fusionexplorer.org/) - Another staking calculator.
 
 ### Staking pools
 
@@ -53,13 +52,13 @@ Pull requests are welcome!
 ## Wallets
 
 - [MyFusionWallet](https://www.myfusionwallet.com/) - Official Fusion web wallet.
-- [MyFusionWallet Fork](https://myfusionwallet.io/) - Optimized Fusion web wallet, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#3431).
+- [MyFusionWallet Fork](https://myfusionwallet.io/) - Forked official web wallet, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#3431).
 - [Whallet](https://whallet.net/) - An online Fusion wallet that supports Ledger and Trezor.
 
 ## Explorers
 
 - [Fusion block explorer](https://blocks.fusionnetwork.io/) - Official Fusion block explorer.
-- [FSN 365](http://www.fsn365.com/) - Another Fusion block explorer.
+- [FSN 365](https://www.fsn365.com/) - Another Fusion block explorer.
 - [FSNEXplorer](https://fsnex.com/) - Another Fusion block explorer.
 - [TxnsScript](https://github.com/katesroad/TxnsScript) - An open source script to track transactions, addresses, and balances.
 
@@ -114,7 +113,7 @@ Note: See [here](https://github.com/FUSIONFoundation/web3-fusion-extend/tree/mas
   - Endpoint: `https://testnetapi.fusionnetwork.io`
   
 #### Community
-- Mainnet (load balanced cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#37b2)):
+- Mainnet (cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#37b2)):
   - Endpoint: `https://api.fusiondefi.org`
 
 ## Network gateways
@@ -130,7 +129,7 @@ Public RPC gateways.
 - Testnet gateway (FOSC):
   - Endpoint: `https://testnet.fsn.dev/api`
   - Chain ID: `46688`
-- Mainnet gateway (load balanced cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
+- Mainnet gateway (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
   - Endpoint: `https://gw.fusiondefi.org`
   - Chain ID: `32659`
 
@@ -153,7 +152,7 @@ Public RPC gateways.
   - Chain ID: `46688`
 
 #### Community:
-- Mainnet gateway (load balanced cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
+- Mainnet gateway (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
   - Endpoint: `wss://gw.fusiondefi.org:10001`
   - Chain ID: `32659`
 
