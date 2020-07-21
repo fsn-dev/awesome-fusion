@@ -104,8 +104,8 @@ Pull requests are welcome!
 
 Various public API endpoints.
 
-### [Block Explorer](https://github.com/FUSIONFoundation/web3-fusion-extend/tree/master/examples/blockexplorerapi)
-Note: Used by the [official block explorer](https://blocks.fusionnetwork.io) and MyFusionWallet.
+### Block Explorer
+Note: See [here](https://github.com/FUSIONFoundation/web3-fusion-extend/tree/master/examples/blockexplorerapi), used by the [official block explorer](https://blocks.fusionnetwork.io) and MyFusionWallet.
 
 #### Official
 - Mainnet:
