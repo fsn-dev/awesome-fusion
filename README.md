@@ -21,6 +21,7 @@ Pull requests are welcome!
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Dapps](#dapps)
+- [Interfaces](#interfaces)
 - [Network gateways](#network-gateways)
 - [Community](#community)
 - [Misc](#misc)
@@ -37,12 +38,11 @@ Pull requests are welcome!
 
 ## Staking
 
-### Staking calculators
+### Calculators
 
 - [Fusion staking calculator](https://fusionstaking.com/) - A staking calculator.
-- [Another Fusion staking calculator](http://calculator.fusionexplorer.org/) - Another staking calculator.
 
-### Staking pools
+### Pools
 
 - [FSNPOOL](https://fsnpool.com/)
 - [GOFSN](https://gofsn.com/)
@@ -52,12 +52,13 @@ Pull requests are welcome!
 ## Wallets
 
 - [MyFusionWallet](https://www.myfusionwallet.com/) - Official Fusion web wallet.
+- [MyFusionWallet Fork](https://myfusionwallet.io/) - Forked official web wallet, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#3431).
 - [Whallet](https://whallet.net/) - An online Fusion wallet that supports Ledger and Trezor.
 
 ## Explorers
 
 - [Fusion block explorer](https://blocks.fusionnetwork.io/) - Official Fusion block explorer.
-- [FSN 365](http://www.fsn365.com/) - Another Fusion block explorer.
+- [FSN 365](https://www.fsn365.com/) - Another Fusion block explorer.
 - [FSNEXplorer](https://fsnex.com/) - Another Fusion block explorer.
 - [TxnsScript](https://github.com/katesroad/TxnsScript) - An open source script to track transactions, addresses, and balances.
 
@@ -98,27 +99,72 @@ Pull requests are welcome!
 - [WeDeFi](https://www.wedefi.com/) - A decentralized finance dapp for iOS and Android.
 - [Anyswap](https://anyswap.exchange/) - A decentralized exchange where you can trade not just ERC-20 tokens, but coins and tokens from any other blockchain protocols, including Ethereum and Bitcoin.
 
+## Interfaces
+
+Various public APIs.
+
+### Block Explorer
+Note: See [here](https://github.com/FUSIONFoundation/web3-fusion-extend/tree/master/examples/blockexplorerapi), used by the [official block explorer](https://blocks.fusionnetwork.io) and MyFusionWallet.
+
+#### Official
+- Mainnet:
+  - Endpoint: `https://api.fusionnetwork.io`
+- Testnet:
+  - Endpoint: `https://testnetapi.fusionnetwork.io`
+  
+#### Community
+- Mainnet (cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#37b2)):
+  - Endpoint: `https://api.fusiondefi.org`
+
+### FSNEX Stats
+- Mainnet:
+  - Endpoints:
+    - Network: `https://api.fsnex.com/network`
+    - Blocks: `https://api.fsnex.com/chart/block`
+    - Activity: `https://api.fsnex.com/chart/tx`
+    - Addresses: `https://api.fsnex.com/chart/add`
+    - Transfers: `https://api.fsnex.com/chart/sends`
+    - Supply: `https://api.fsnex.com/supply`
+
 ## Network gateways
 
-Public network gateways.
+Public RPC gateways.
 
-### RPC
+### HTTP
 
-- Mainnet gateway:
+#### Community:
+- Mainnet gateway (FOSC):
   - Endpoint: `https://fsn.dev/api`
   - Chain ID: `32659`
-- Testnet gateway:
+- Testnet gateway (FOSC):
   - Endpoint: `https://testnet.fsn.dev/api`
+  - Chain ID: `46688`
+- Mainnet gateway (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
+  - Endpoint: `https://gw.fusiondefi.org`
+  - Chain ID: `32659`
+
+#### Anyswap:
+- Mainnet gateway:
+  - Endpoint: `https://mainnet.anyswap.exchange`
+  - Chain ID: `32659`
+- Testnet gateway:
+  - Endpoint: `https://testnet.anyswap.exchange`
   - Chain ID: `46688`
 
 ### WebSocket
 
+#### Official:
 - Mainnet gateway:
   - Endpoint: `wss://mainnetpublicgateway1.fusionnetwork.io:10001`
   - Chain ID: `32659`
 - Testnet gateway:
-  - Endpoin: `wss://testnetpublicgateway1.fusionnetwork.io:10001`
+  - Endpoint: `wss://testnetpublicgateway1.fusionnetwork.io:10001`
   - Chain ID: `46688`
+
+#### Community:
+- Mainnet gateway (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
+  - Endpoint: `wss://gw.fusiondefi.org:10001`
+  - Chain ID: `32659`
 
 ## Community
 
@@ -133,7 +179,6 @@ Public network gateways.
 ## Misc
 
 - [FSN FEED](https://fsnfeed.com/) - A news feed for all things Fusion.
-- [WeDeFi](https://www.wedefi.com/) - A private company building on Fusion.
 - [WeDeFi SafeBet Calculator](http://safebetcalculator.com/) - A community-built calculator to check and plan your chances of winning at [WeDeFi's](https://www.wedefi.com/) SafeBet.
 
 ## Official
