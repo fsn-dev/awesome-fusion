@@ -101,7 +101,7 @@ Pull requests are welcome!
 
 ## Interfaces
 
-Various public API endpoints.
+Various public APIs.
 
 ### Block Explorer
 Note: See [here](https://github.com/FUSIONFoundation/web3-fusion-extend/tree/master/examples/blockexplorerapi), used by the [official block explorer](https://blocks.fusionnetwork.io) and MyFusionWallet.
@@ -115,6 +115,16 @@ Note: See [here](https://github.com/FUSIONFoundation/web3-fusion-extend/tree/mas
 #### Community
 - Mainnet (cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#37b2)):
   - Endpoint: `https://api.fusiondefi.org`
+
+### FSNEX Stats
+- Mainnet:
+  - Endpoints:
+    - Network: `https://api.fsnex.com/network`
+    - Blocks: `https://api.fsnex.com/chart/block`
+    - Activity: `https://api.fsnex.com/chart/tx`
+    - Addresses: `https://api.fsnex.com/chart/add`
+    - Transfers: `https://api.fsnex.com/chart/sends`
+    - Supply: `https://api.fsnex.com/supply`
 
 ## Network gateways
 
