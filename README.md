@@ -21,6 +21,7 @@ Pull requests are welcome!
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Dapps](#dapps)
+- [Interfaces](#interfaces)
 - [Network gateways](#network-gateways)
 - [Community](#community)
 - [Misc](#misc)
@@ -52,6 +53,7 @@ Pull requests are welcome!
 ## Wallets
 
 - [MyFusionWallet](https://www.myfusionwallet.com/) - Official Fusion web wallet.
+- [MyFusionWallet Fork](https://myfusionwallet.io/) - Optimized Fusion web wallet, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#3431).
 - [Whallet](https://whallet.net/) - An online Fusion wallet that supports Ledger and Trezor.
 
 ## Explorers
@@ -98,27 +100,62 @@ Pull requests are welcome!
 - [WeDeFi](https://www.wedefi.com/) - A decentralized finance dapp for iOS and Android.
 - [Anyswap](https://anyswap.exchange/) - A decentralized exchange where you can trade not just ERC-20 tokens, but coins and tokens from any other blockchain protocols, including Ethereum and Bitcoin.
 
+## Interfaces
+
+Various public API endpoints.
+
+### [Block Explorer](https://github.com/FUSIONFoundation/web3-fusion-extend/tree/master/examples/blockexplorerapi)
+Note: Used by the [official block explorer](https://blocks.fusionnetwork.io) and MyFusionWallet.
+
+#### Official
+- Mainnet:
+  - Endpoint: `https://api.fusionnetwork.io`
+- Testnet:
+  - Endpoint: `https://testnetapi.fusionnetwork.io`
+  
+#### Community
+- Mainnet (load balanced cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#37b2)):
+  - Endpoint: `https://api.fusiondefi.org`
+
 ## Network gateways
 
-Public network gateways.
+Public RPC gateways.
 
-### RPC
+### HTTP
 
-- Mainnet gateway:
+#### Community:
+- Mainnet gateway (FOSC):
   - Endpoint: `https://fsn.dev/api`
   - Chain ID: `32659`
-- Testnet gateway:
+- Testnet gateway (FOSC):
   - Endpoint: `https://testnet.fsn.dev/api`
+  - Chain ID: `46688`
+- Mainnet gateway (load balanced cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
+  - Endpoint: `https://gw.fusiondefi.org`
+  - Chain ID: `32659`
+
+#### Anyswap:
+- Mainnet gateway:
+  - Endpoint: `https://mainnet.anyswap.exchange`
+  - Chain ID: `32659`
+- Testnet gateway:
+  - Endpoint: `https://testnet.anyswap.exchange`
   - Chain ID: `46688`
 
 ### WebSocket
 
+#### Official:
 - Mainnet gateway:
   - Endpoint: `wss://mainnetpublicgateway1.fusionnetwork.io:10001`
   - Chain ID: `32659`
 - Testnet gateway:
-  - Endpoin: `wss://testnetpublicgateway1.fusionnetwork.io:10001`
+  - Endpoint: `wss://testnetpublicgateway1.fusionnetwork.io:10001`
   - Chain ID: `46688`
+
+#### Community:
+- Mainnet gateway (load balanced cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
+  - Endpoint: `wss://gw.fusiondefi.org:10001`
+  - Chain ID: `32659`
 
 ## Community
 
