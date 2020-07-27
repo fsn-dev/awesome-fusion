@@ -60,7 +60,6 @@ Pull requests are welcome!
 - [Fusion block explorer](https://blocks.fusionnetwork.io/) - Official Fusion block explorer.
 - [FSN 365](https://www.fsn365.com/) - Another Fusion block explorer.
 - [FSNEXplorer](https://fsnex.com/) - Another Fusion block explorer.
-- [TxnsScript](https://github.com/katesroad/TxnsScript) - An open source script to track transactions, addresses, and balances.
 
 ## Network monitoring
 
@@ -84,6 +83,8 @@ Pull requests are welcome!
 - [Truffle](https://github.com/FUSIONFoundation/efsn/wiki/Deploy-smart-contract-using-truffle) - A how-to to compile and deploy a smart contract with [Truffle](https://www.trufflesuite.com/).
 - [Remix IDE](https://github.com/FUSIONFoundation/efsn/wiki/Deploy-smart-contract-using-remix) - A how-to to compile and deploy a smart contract with [Remix IDE](https://remix.ethereum.org/).
 - [solc](https://github.com/FUSIONFoundation/efsn/wiki/Deploy-smart-contract-using-solc) - A how-to to compile and deploy a smart contract with [solc](https://solidity.readthedocs.io/en/v0.5.3/installing-solidity.html).
+- [FsnNodeHealthCheck](https://github.com/marcelcure/FsnNodeHealthCheck) - An ligthweight tool that runs in the background and monitors your Fusion node.
+- [TxnsScript](https://github.com/katesroad/TxnsScript) - An open-source script to track transactions, addresses, and balances.
 
 ## Tutorials
 
