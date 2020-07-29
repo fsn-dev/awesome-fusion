@@ -113,8 +113,8 @@ Note: See [here](https://github.com/FUSIONFoundation/web3-fusion-extend/tree/mas
   - Endpoint: `https://testnetapi.fusionnetwork.io`
   
 #### Community
-- Mainnet (cluster, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#37b2)):
-  - Endpoint: `https://api.fusiondefi.org`
+- Mainnet (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#37b2)):
+  - Endpoint: `https://api.redefi.tech`
 
 ### FSNEX Stats
 - Mainnet:
@@ -140,7 +140,7 @@ Public RPC gateways.
   - Endpoint: `https://testnet.fsn.dev/api`
   - Chain ID: `46688`
 - Mainnet gateway (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
-  - Endpoint: `https://gw.fusiondefi.org`
+  - Endpoint: `https://gw.redefi.tech`
   - Chain ID: `32659`
 
 #### Anyswap:
@@ -163,7 +163,7 @@ Public RPC gateways.
 
 #### Community:
 - Mainnet gateway (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
-  - Endpoint: `wss://gw.fusiondefi.org:10001`
+  - Endpoint: `wss://gw.redefi.tech:10001`
   - Chain ID: `32659`
 
 ## Community
