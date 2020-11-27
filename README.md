@@ -97,7 +97,7 @@ Pull requests are welcome!
 
 ## Dapps
 
-- [WeDeFi](https://www.wedefi.com/) - A decentralized finance dapp for iOS and Android.
+- [Chainge](https://chainge.finance/) - A decentralized finance dapp.
 - [Anyswap](https://anyswap.exchange/) - A decentralized exchange where you can trade not just ERC-20 tokens, but coins and tokens from any other blockchain protocols, including Ethereum and Bitcoin.
 
 ## Interfaces
@@ -180,7 +180,6 @@ Public RPC gateways.
 ## Misc
 
 - [FSN FEED](https://fsnfeed.com/) - A news feed for all things Fusion.
-- [WeDeFi SafeBet Calculator](http://safebetcalculator.com/) - A community-built calculator to check and plan your chances of winning at [WeDeFi's](https://www.wedefi.com/) SafeBet.
 
 ## Official
 
