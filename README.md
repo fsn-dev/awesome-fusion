@@ -52,7 +52,6 @@ Pull requests are welcome!
 ## Wallets
 
 - [MyFusionWallet](https://www.myfusionwallet.com/) - Official Fusion web wallet.
-- [MyFusionWallet Fork](https://myfusionwallet.io/) - Forked official web wallet, see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#3431).
 - [Whallet](https://whallet.net/) - An online Fusion wallet that supports Ledger and Trezor.
 
 ## Explorers
@@ -114,8 +113,8 @@ Note: See [here](https://github.com/FUSIONFoundation/web3-fusion-extend/tree/mas
   - Endpoint: `https://testnetapi.fusionnetwork.io`
   
 #### Community
-- Mainnet (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#37b2)):
-  - Endpoint: `https://api.redefi.tech`
+- Mainnet:
+  - Endpoint: `n/a`
 
 ### FSNEX Stats
 - Mainnet:
@@ -140,9 +139,6 @@ Public RPC gateways.
 - Testnet gateway (FOSC):
   - Endpoint: `https://testnet.fsn.dev/api`
   - Chain ID: `46688`
-- Mainnet gateway (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
-  - Endpoint: `https://gw.redefi.tech`
-  - Chain ID: `32659`
 
 #### Anyswap:
 - Mainnet gateway:
@@ -163,8 +159,8 @@ Public RPC gateways.
   - Chain ID: `46688`
 
 #### Community:
-- Mainnet gateway (see [here](https://medium.com/@iruwen/adding-to-fusions-infrastructure-1df9991370ba#6922)):
-  - Endpoint: `wss://gw.redefi.tech:10001`
+- Mainnet gateway:
+  - Endpoint: `n/a`
   - Chain ID: `32659`
 
 ## Community
